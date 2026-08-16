@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-> **[carbonwise-brown.vercel.app](carbonwise-brown.vercel.app)**
+> **[carbonwise-brown.vercel.app](https://carbonwise-brown.vercel.app)**
 
 ![CarbonWise Homepage](assets/a6.webp)
 
